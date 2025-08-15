@@ -79,15 +79,16 @@ Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e
 ### 📊 Estatísticas
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: 00FFFF)"
-  />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&locale=pt-br" />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&theme=dracula"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: 00FFFF)"
+    />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&locale=pt-br"
+    />
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroandrad3&hide_progress=true&theme=dracula&locale=pt-br)
@@ -97,10 +98,16 @@ Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e
 ### 📞 Redes Sociais e Contato
 
 <div>
-  <a href = "https://www.instagram.com/kanny_jp" target="_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "https://discord.com/users/k4nny_" target="_blank"><img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=joaopedroandrad3@gmail.com" target="_blank">
-  <img src = "https://img.shields.io/badge/-joaopedroandrad3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-  <a href = "https://www.linkedin.com/in/joão-pedro-andrade-santana-silva-198097347" target="_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "https://www.instagram.com/kanny_jp" target="_blank">
+        <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href = "https://discord.com/users/k4nny_" target="_blank">
+        <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=joaopedroandrad3@gmail.com" target="_blank">
+        <img src = "https://img.shields.io/badge/-joaopedroandrad3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href = "https://www.linkedin.com/in/joão-pedro-andrade-santana-silva-198097347" target="_blank">
+        <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
