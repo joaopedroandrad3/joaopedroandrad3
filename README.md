@@ -2,7 +2,7 @@
 
 **`🎓 Estudante de Ciência da Computação`**
 
-Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e pela forma como a programação pode transformar ideias em soluções reais. Atualmente curso o 2º semestre de Ciência da Computação na PUC Goiás, sempre buscando aprender e aplicar novos conceitos. Tenho interesse em explorar diferentes áreas, desde desenvolvimento web até inteligência artificial, e meu objetivo é evoluir constantemente como desenvolvedor e contribuir para projetos que façam a diferença.
+Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e pela forma como a programação pode transformar ideias em soluções reais. Atualmente curso o 4º semestre de Ciência da Computação na PUC Goiás, sempre buscando aprender e aplicar novos conceitos. Tenho interesse em explorar diferentes áreas, desde desenvolvimento web até inteligência artificial, e meu objetivo é evoluir constantemente como desenvolvedor e contribuir para projetos que façam a diferença.
 
 <p align="left">
     <a href = "https://githum.com/joaopedroandrad3?tab=followers">
