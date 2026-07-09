@@ -23,13 +23,16 @@ Atualmente, concilio a faculdade com a atuação prática na área de infraestru
 
 ### Em Evolução (O que estou estudando e praticando atualmente):
 <div inline>
-  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/-SQL-%23000000?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </div>
 
-*   💻 **Ambiente Linux:** Familiarizando-me com o sistema operacional, comandos básicos de terminal e navegação.
+*   ⚛️ **React & Node.js:** Desenvolvendo meus primeiros projetos FullStack para consolidar conceitos de Front-end e Back-end.
 *   🗄️ **Bancos de Dados / SQL:** Aprendendo a estrutura de bancos de dados relacionais e comandos essenciais de consulta.
+*   💻 **Ambiente Linux:** Familiarizando-me com o sistema operacional, comandos básicos de terminal e navegação.
 *   🐍 **Python:** Explorando conceitos iniciais da linguagem.
 
 ---
