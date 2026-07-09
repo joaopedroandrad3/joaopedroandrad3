@@ -1,101 +1,40 @@
-# Olá! Eu sou o João Pedro 👨🏻‍💻
+# Olá! Eu sou o João Pedro 👨‍💻
 
-**`🎓 Estudante de Ciência da Computação`**
+🎓 **Estudante de Ciência da Computação na PUC Goiás**
 
-Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e pela forma como a programação pode transformar ideias em soluções reais. Atualmente curso o 4º semestre de Ciência da Computação na PUC Goiás, sempre buscando aprender e aplicar novos conceitos. Tenho interesse em explorar diferentes áreas, desde desenvolvimento web até inteligência artificial, e meu objetivo é evoluir constantemente como desenvolvedor e contribuir para projetos que façam a diferença.
+Meu nome é João Pedro Andrade, tenho 19 anos e sou apaixonado por tecnologia e pela forma como a programação transforma ideias em soluções reais. Meu objetivo de carreira é me consolidar como um **Desenvolvedor FullStack**, dominando tanto as tecnologias de Front-end quanto as de Back-end para construir aplicações completas.
 
-<p align="left">
-    <a href = "https://githum.com/joaopedroandrad3?tab=followers">
-        <img 
-            alt="followers"
-            title="Follow me on Github"
-            src="https://custom-icon-badges.demolab.com/github/stars/joaopedroandrad3?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href = "https://githum.com/joaopedroandrad3?tab=followers">
-        <img 
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/joaopedroandrad3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Atualmente, concilio a faculdade com a atuação prática na área de infraestrutura de TI e suporte corporativo. Sou focado em evoluir constantemente, aprender novas ferramentas e construir uma base sólida de engenharia de software.
 
-##
+---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias e Ferramentas:
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+### Conhecimento Prático (O que já utilizo e domino a base):
+<div inline>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</div>
 
-### 📊 Estatísticas
+*   **Infraestrutura:** Windows Server, Active Directory, Redes e Switches (Experiência do meu dia a dia profissional).
 
-<picture>
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&theme=dracula"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: 00FFFF)"
-    />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopedroandrad3&show_icons=true&locale=pt-br"
-    />
-</picture>
+### Em Evolução (O que estou estudando e praticando atualmente):
+<div inline>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroandrad3&hide_progress=true&theme=dracula&locale=pt-br)
+*   💻 **Ambiente Linux:** Familiarizando-me com o sistema operacional, comandos básicos de terminal e navegação.
+*   🗄️ **Bancos de Dados / SQL:** Aprendendo a estrutura de bancos de dados relacionais e comandos essenciais de consulta.
+*   🐍 **Python:** Explorando conceitos iniciais da linguagem.
 
-##
+---
 
-### 📞 Redes Sociais e Contato
+## 📞 Redes Sociais e Contato
 
 <div>
     <a href = "https://www.instagram.com/kanny_jp" target="_blank">
